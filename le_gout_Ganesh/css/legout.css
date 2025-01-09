@@ -1,0 +1,60 @@
+nav {
+  z-index: 1;
+}
+.links a:hover{
+  border-bottom: solid green;
+
+}
+.parallax {
+    
+    height: 1200px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  /* parallax image1 */
+  .parallax1{
+    background-image: url(/maquette_le_gout/img/banniere2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .text1{
+    
+    padding-top: 300px;
+    padding-left: 1000px;
+  }
+
+  h1{
+    color: white;
+    font-size: 75px;
+  }
+   /* parallax image2 */
+.parallax2 {
+  background-image: url(/maquette_le_gout/img/banniere5.jpg);
+  height: 1600px;
+
+}
+.textH{
+  text-align: center;
+}
+.text2{
+  padding: 150px;
+} 
+.part3{
+  height: 200px;
+}
+.part4{
+  background-image: url(/maquette_le_gout/img/banniere2.jpg);
+  height:300px;
+   
+}
+.part4 h2{
+  padding-top: 100px;
+}
+.parallax3{
+  background-image: url(/maquette_le_gout/img/banniere2.jpg);
+  opacity:1;
+}
